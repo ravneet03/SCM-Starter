@@ -1,4 +1,14 @@
-# Starter Next/Hardhat Project
+# Module 2 Assesment 
+
+* Added Styles and CSS
+* Added a function to deposit and withdraw value inputed from user.
+* Added a function to show and hide balances .
+* 
+## Description
+
+This project is a Ethereum baesd smart contract coded in soldity for a any checking balance and depositing and withdrawing the tokens .
+
+### Installing and Executing
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +20,20 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Help
+
+For any issues, you can refer to the Remix documentation or common Ethereum development resources.
+
+## Authors
+
+Contributors names and contact info
+
+Ravneet Singh  
+[@22BCS15231] (ravneetsingh290@gmail.com)
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
