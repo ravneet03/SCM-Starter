@@ -7,6 +7,7 @@ contract Assessment {
     address payable public owner;
     uint256 public balance;
 
+
     event Deposit(uint256 amount);
     event Withdraw(uint256 amount);
 
