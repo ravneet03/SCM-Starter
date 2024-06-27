@@ -3,7 +3,7 @@
 * Added Styles and CSS
 * Added a function to deposit and withdraw value inputed from user.
 * Added a function to show and hide balances .
-* 
+  
 ## Description
 
 This project is a Ethereum baesd smart contract coded in soldity for a any checking balance and depositing and withdrawing the tokens .
