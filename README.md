@@ -1,4 +1,3 @@
-a
 # Module 2 Assessment
 
 This project is an Ethereum-based smart contract ATM application coded in Solidity, with a React frontend. It allows users to check balances, deposit, and withdraw ETH tokens through a MetaMask wallet.
@@ -12,6 +11,12 @@ This project is an Ethereum-based smart contract ATM application coded in Solidi
 ## Description
 
 This project demonstrates the implementation of a basic ATM system using Ethereum smart contracts. Users can connect their MetaMask wallet, deposit, withdraw, and check their balance.
+
+1. **Solidity Smart Contract**: The core logic of the ATM is implemented in Solidity, a contract-oriented programming language for writing smart contracts on Ethereum. The smart contract handles the storage and manipulation of balances, and includes functions for depositing and withdrawing ETH.
+
+2. **React Frontend**: The user interface is built with React, a popular JavaScript library for building user interfaces. The frontend connects to the Ethereum blockchain via MetaMask, allowing users to interact with the smart contract directly from their browser.
+
+3. **Ethers.js**: A library for interacting with the Ethereum blockchain, used in this project to connect the React frontend with the Solidity smart contract.
 
 ## Getting Started
 
